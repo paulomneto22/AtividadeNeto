@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    margin: 0;
+    font-family: "Saira", sans-serif;
+    background-color: #111;
+    color: white;
+}
+
+header {
+    background-color: #222;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: rgb(7, 141, 7);
+}
+
+section {
+    background-color: #1c1c1c;
+    margin: 20px;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #222;
+    text-align: center;
+    padding: 10px;
+}
+
+header {
+    background-color: #222;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.TWDLogo {
+    width: 330px;
+    cursor: pointer;
+}
+
+
+.texto-header {
+    text-align: center;
+    
+}
+
+
+.paragrafo1{
+    margin: 0px;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    margin-top: 70px;
+    margin-right: 60px;
+    transition: 0.2s ease;
+}
+
+.paragrafo1:hover{
+    transform: scale(1.1);
+    color: rgb(11, 85, 3);
+}
+
+.titulo1{
+    font-size: 50px;
+    margin-left: 23px;
+    transition: 0.3s ease;
+}
+
+.titulo1:hover{
+    transform: scale(1.1);
+    color: rgb(11, 85, 3);
+}
+
+
+
+

@@ -1,0 +1,42 @@
+@import url('styles.css');
+
+section {
+    background-color: #3a3a3a;
+}
+
+.sumary1{
+    font-size: 25px;
+}
+
+.sobre1{
+    display: flex;
+    margin: auto;
+    transition: 0.2s ease;
+    margin-left: 420px;
+    font-size: 40px;
+}
+
+.sobre1:hover{
+    transform: scale(1.1);
+    color: green;
+}
+
+.IMDB{
+    width: 520px;
+}
+
+.nota2{
+    color: green
+}
+
+.nota1{
+    color: lightgreen
+}
+
+.nota3{
+    color: lightgreen
+}
+
+.logotwd{
+    width: 200px;
+}
