@@ -105,7 +105,7 @@
     transition: 0.2s ease;
 }
 
-.fotop8{
+.fotop8:hover{
     transform: scale(1.1);
 }
 
